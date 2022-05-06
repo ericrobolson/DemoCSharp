@@ -1,0 +1,2 @@
+cd CoreGame
+dotnet test
